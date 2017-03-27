@@ -4,7 +4,7 @@
 #
 #-------------------------------------------------
 
-QT       += core gui network widgets
+QT       += core gui widgets
 
 TARGET = qt_bug_glib
 TEMPLATE = app
